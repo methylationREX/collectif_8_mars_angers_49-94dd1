@@ -7,6 +7,9 @@ sections:
       text: Collectif 8 Mars
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Collectif Féministe du Maine-et-Loire
     text: >
       Rassemblement d'associations, de syndicats et de personnes engagées pour
