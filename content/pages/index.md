@@ -7,7 +7,7 @@ sections:
       text: Collectif 8 Mars
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Collectif Féministe du Maine-et-Loire
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
