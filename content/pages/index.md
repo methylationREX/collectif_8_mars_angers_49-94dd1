@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Collectif Féministe du Maine-et-Loire
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Le Collectif du 8 mars d’Angers rassemble des associations, syndicats et
+      personnes engagées autour d’un objectif commun : défendre les droits des
+      femmes et des minorités de genre.
+
     actions:
       - label: Get started
         altText: ''
