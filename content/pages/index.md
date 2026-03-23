@@ -8,11 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Collectif Féministe du Maine-et-Loire
-    text: >+
+    text: >
       Le Collectif du 8 mars d’Angers rassemble des associations, syndicats et
-      personnes engagées autour d’un objectif commun : défendre les droits des
-      femmes et des minorités de genre.
+      personnes engagées autour d’un objectif commun : 
 
+
+      défendre les droits des femmes et des minorités de genre.
     actions:
       - label: Get started
         altText: ''
