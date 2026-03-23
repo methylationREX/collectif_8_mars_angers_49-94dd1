@@ -52,6 +52,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
