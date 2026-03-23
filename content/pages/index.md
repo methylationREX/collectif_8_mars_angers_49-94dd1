@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Collectif 8 Mars
-      color: text-light
+      color: text-dark
       type: TitleBlock
       styles:
         self:
